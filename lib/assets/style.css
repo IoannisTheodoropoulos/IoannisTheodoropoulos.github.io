@@ -1,0 +1,198 @@
+
+body {
+    padding: 0px;
+    background-color: rgb(218, 218, 218);
+    font-size: 14px;
+}
+
+p, li, td {
+    font-family: Century Gothic, arial, sans-serif;
+    color: #989898;
+}
+
+tbody {
+    padding: 0;
+    margin: 0;
+}
+
+table {
+    padding: 0;
+    border-collapse: collapse;
+}
+
+.cyan {
+    color: #7dafd0;
+}
+
+.no-list {
+    padding-left: 0em;
+    margin: 0;
+    list-style-type: none;
+}
+
+.cv-wrapper {
+    background-color: white;
+    margin: auto;
+
+    width: 210mm;
+    box-sizing: border-box;
+
+    padding: .5in;
+}
+
+.header {
+    margin-bottom: 1em;
+    font-size: 1.2em;
+}
+
+.header table {
+    width: 100%;
+}
+
+.header td {
+    padding: 0;
+    margin: 0;
+    vertical-align: bottom;
+}
+
+.header p {
+    margin: 0;
+}
+
+.header .name {
+    font-size: 1.2em;
+    font-weight: 800;
+}
+
+.contact-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    height: 3.6em;
+
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+    column-gap: 0em;
+    column-fill: auto;
+}
+
+.contact-wrapper {
+    font-size: .62em;
+    white-space: nowrap;
+    padding: .2em;
+}
+
+.contact-wrapper a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.contact-wrapper svg {
+    position: relative;
+    top: .3em;
+    height: 1.2em;
+    width: 1.2em;
+    color: #14527a;
+    margin-right: .6em;
+}
+
+.section .title-wrapper {
+    width: 16%;
+    vertical-align: top;
+}
+
+.section-profile {
+    padding-bottom: 1em;
+}
+
+.section .title {
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.section .content {
+}
+
+p {
+    margin: 0 0 0 0;
+}
+
+.subsection {
+    width: 100%;
+}
+
+.subsection:not(:last-child) {
+    margin-bottom: .8em;
+}
+
+.subsection .title {
+    color: #696969;
+    text-transform: none;
+}
+
+.subsection .period-wrapper,
+.subsection .location-wrapper {
+    font-size: .7em;
+    text-align: right;
+}
+
+.subsection .subtitle {
+    font-weight: 600;
+}
+
+.skill-wrapper {
+    vertical-align: top;
+    padding-top: 0;
+    padding-right: 1em;
+    padding-bottom: 0.5em;
+    padding-left: 0;
+}
+.skill-title {
+    color: #696969;
+    font-weight: 600;
+    vertical-align: top;
+    text-align: left;
+}
+
+.title .logo {
+    vertical-align: middle;
+    height: 1.15em;
+    top: -.2em;
+    position: relative;
+}
+
+.technical-list {
+    vertical-align: bottom;
+}
+.technical-list td {
+    padding: 0;
+}
+.technical-list .content {
+    width: 100%;
+    height: 100%;
+    display: block;
+    padding-top: .2em;
+}
+.technical-list .content p {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+}
+.technical-list .technical-title {
+    padding-right: 0.5em;
+}
+
+.section td.title-wrapper {
+    padding-bottom: .6em;
+}
+
+.section > td {
+    padding: 0;
+}
+.content-wrapper {
+    padding: 0 0 1em 0;
+}
+.content-wrapper table {
+    margin: 0;
+}

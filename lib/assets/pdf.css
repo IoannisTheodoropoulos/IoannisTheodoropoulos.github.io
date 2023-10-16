@@ -1,0 +1,23 @@
+
+body {
+    padding: 0px;
+    background-color: white;
+    font-size: 18px;
+}
+
+p, li, td {
+    font-family: Calibri, arial, sans-serif;
+}
+
+.cv-wrapper {
+    margin: 0;
+}
+
+.title .logo
+{
+    height: 1em !important;
+}
+
+.section .title-wrapper {
+    width: 18%;
+}
