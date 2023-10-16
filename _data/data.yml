@@ -71,175 +71,175 @@ education:
       - degree: MSc in Pervasive and Mobile Computing Systems
         university: Hellenic Open University of Greece
         time: 2022 - 2023
+        details: 
+
+      - degree: BSc in Computer Science & Information Technology
+        university: Hellenic Open University of Greece
+        time: 2013 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Direction to modern networks and services - Computer Systems Protection & Security
 
 experiences:
-    title: Experiences
+    title: Systems Engineer
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: 
+        time: 2021 - Present
+        company: CH Financial Services S.A., Athens
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          - Microsoft 365 Admin Center (Endpoint Manager, Azure AD, Exchange, Sharepoint, Teams)
+          - Exchange Admin Center platform
+          - Mail Server PowerShell Handling
+          - Symantec DLP Management
+          - vCenter Administration | System/Network Monitoring
+          - Network local Admin (Servers, VMs, NAS storages Μaintenance)
+          - Beyond Trust Privileged Access Management
+          - Network Access Rights Auditing (Powershell / C) - Threat & Risk Investigation
+          - Update on Cybersecurity issues for Assisting Local & Network Deployments
+          - PBX / SIP Development Coordinator (according to specific needs)
+          - SFTP Administration (Implementation / NDA's Confirmation - In collaboration with the NFR)
+
+      - role: Information Technology Network Engineer
+        time: 2017 - 2021
+        company: Beta Securities, Athens
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          ▪ Software/Firmware Design & Development - Programming
+            - Customer Evaluation (ASE model) / KYC Report (Java, SQL).
+            - Server Room Temperature Monitoring: Developed with Arduino Uno - RPi 3B (C, Python)
+          ▪ Network Systems - Information Security
+            - Network facilities & configuration (Routers/Switches, structured cabling), wireless network installation (4
+            cAPs cluster - RouterOS setup), diagnosing and resolving hardware or software faults
+            - Server maintenance and monitoring (Domain Controller, SQL, Centos Mail, Activefax & ASE server)
+            - Active Directory Administration
+            - MS Word malware detection & simulator system development (deobfuscation-RPi 4 - Python)
+            - Security anti-virus systems and firewalls maintenance and monitoring (ESET remote administrator,
+            Watchguard firebox M series)
+            - Penetration test (Kali Linux)
+          ▪ Web Development, Computer Automation & System / User Support
+            - Joomla & WordPress (HTML,PHP, JavaScript, CSS)
+            - On the spot / Remote users/customers support, including procedural documentation and reports,
+            Working on MS Windows, Linux, MAC OS & Android - iOS
+          
+      - role: Project Coordinator - Applications and Computer Networks
+        time: 2016 - 2017
+        company: ERFC, Aegion
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Management, coordination of pilot applications "EA SEA-WAY" in accordance with the deadlines specified
+          by the EU (Data collection - entry, coordination of partners abroad according to specifications, quality
+          control, administrator/user manual writing)
+          - Architecture design & development (flowchart - Class diagram, Application) of MS Access Database design
+          - Software / hardware testing, upgrade, maintenance and replacement. Daily back up, web pages
+          management and update (html - joomla environment)
+          
+      - role: Embedded Software / Firmware Engineer
+        time: 2016 - 2017
+        company: Meazon S.A, Patra
+        details: |
+          - Firmware Development on Texas Instruments cc254x SoC solution ( 8051 based microcontroller with
+          embedded Bluetooth RF transceiver). Development of Smart Sub-Meter Prototype ( Schuko Smart Plug
+          )that uses the BLE (Bluetooth Low Energy Protocol 4.0/4.1) protocol to wirelessly send AC measurements
+          such as Voltage, Current, Active Power and Energy as well as remotely control loads connected on the plug
+          using an embedded relay switch (C, Assembly languages and JTAG, Debuggers UART Consoles )
+          - Hybrid Mobile Application Development (Android Platform) using Phonegap and Ionic Framework that
+          connects and communicates with the Schuko Plug via Bluetooth (Javascript, HTML, CSS languages), Visual
+          Studio
+          - Firmware Development on DA1458x SoC solution provided by Dialog Semiconductors (Cortex M0
+          microcontroller with embedded Bluetooth RF transceiver). Development of a "dual-mode" device
+          prototype, bluetooth central and peripheral role. (C language )
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: MTCNA - System, Networking and LAN/WAN Management/Manager
+          start: 2021
+          end: 2022
+          organization: MikroTik Routers and Wireless
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+            
+        - name: Graduate Student Experience Acquisition
+          start: 2015
+          end: 2016
+          organization: Ministry of Education and Religious Affairs
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            - Computer Science
+            - Managerial Skills
+            - Entrepreneurship
+            - Conflict resolution & management in the workplace
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#
+#oss:
+#    title: OSS Contributions
+#    intro: >
+#      You can list your open source software contributions in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    contributions:
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -263,5 +263,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
