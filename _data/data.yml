@@ -8,23 +8,21 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ioannis Theodoropoulos
+    tagline: Systems Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: std159317@ac.eap.gr
     phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    timezone: 
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: ioannistheodoropoulos.github.io/ #do not add http://
+    github: IoannisTheodoropoulos
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,42 +31,46 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Greek
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
-
+       
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Running
           link:
 
-        - item: Snowboarding
+        - item: Music
           link:
 
-        - item: Cooking
+        - item: Reading
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+#      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. You can [download this free resume/CV template here]().
+#      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#      Donec quam felis, ultricies nec, pellentesque eu.
+#      Second paragraph if required.
+        Always communicating, pleasant and smiling with everyone. Team spirit and cooperative with other people.
+        Excellent organizational and managerial skills. Strong computer skills. 
+        Desire and mood to always become better and learning everything new around 
+        software/hardware development even in pressurized situations.
+        Advanced (firmware/software) - Object Oriented/Aspect Oriented- programming skills. 
+        Deep understanding of Database architecture, fluency with operating systems, ability to quickly identify and resolve issues.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Pervasive and Mobile Computing Systems
+        university: Hellenic Open University of Greece
+        time: 2022 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
