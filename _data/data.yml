@@ -15,9 +15,11 @@ sidebar:
     # Sidebar links
     email: std159317@ac.eap.gr
     phone: 012 345 6789
-    timezone: 
+    timezone: America/Cancun Timezone
     citizenship:
     website: ioannistheodoropoulos.github.io/ #do not add http://
+    linkedin: 
+    xing: 
     github: IoannisTheodoropoulos
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -37,7 +39,9 @@ sidebar:
         - idiom: English
           level: Professional
 
-       
+        - idiom: 
+          level: 
+
     interests:
       title: Interests
       info:
@@ -53,36 +57,31 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-#      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#      adipiscing elit. You can [download this free resume/CV template here]().
-#      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#      Donec quam felis, ultricies nec, pellentesque eu.
-#      Second paragraph if required.
-        Always communicating, pleasant and smiling with everyone. Team spirit and cooperative with other people.
-        Excellent organizational and managerial skills. Strong computer skills. 
-        Desire and mood to always become better and learning everything new around 
-        software/hardware development even in pressurized situations.
-        Advanced (firmware/software) - Object Oriented/Aspect Oriented- programming skills. 
-        Deep understanding of Database architecture, fluency with operating systems, ability to quickly identify and resolve issues.
+      Always communicating, pleasant and smiling with everyone. Team spirit and
+      cooperative with other people.
+      Excellent organizational and managerial skills. Strong computer skills.
+      Desire and mood to always become better and learning everything new around
+      software/hardware development even in pressurized situations.
+      Advanced (firmware/software) - Object Oriented/Aspect Oriented- programming skills. 
+      Deep understanding of Database architecture, fluency with operating systems, 
+      ability to quickly identify and resolve issues.
+
 education:
     title: Education
     info:
       - degree: MSc in Pervasive and Mobile Computing Systems
         university: Hellenic Open University of Greece
-        time: 2022 - 2023
-        details: 
-
-      - degree: BSc in Computer Science & Information Technology
+        time: 2022 - Present
+        details: |
+      - degree: MSc in Computer Science
         university: Hellenic Open University of Greece
         time: 2013 - 2020
         details: |
-          - Direction to modern networks and services - Computer Systems Protection & Security
 
 experiences:
     title: Systems Engineer
     info:
-      - role: 
+      - role: Lead Developer
         time: 2021 - Present
         company: CH Financial Services S.A., Athens
         details: |
@@ -97,54 +96,50 @@ experiences:
           - Update on Cybersecurity issues for Assisting Local & Network Deployments
           - PBX / SIP Development Coordinator (according to specific needs)
           - SFTP Administration (Implementation / NDA's Confirmation - In collaboration with the NFR)
-
+            
       - role: Information Technology Network Engineer
         time: 2017 - 2021
         company: Beta Securities, Athens
         details: |
           ▪ Software/Firmware Design & Development - Programming
-            - Customer Evaluation (ASE model) / KYC Report (Java, SQL).
-            - Server Room Temperature Monitoring: Developed with Arduino Uno - RPi 3B (C, Python)
+          - Customer Evaluation (ASE model) / KYC Report (Java, SQL).
+          - Server Room Temperature Monitoring: Developed with Arduino Uno - RPi 3B (C, Python)
           ▪ Network Systems - Information Security
-            - Network facilities & configuration (Routers/Switches, structured cabling), wireless network installation (4
-            cAPs cluster - RouterOS setup), diagnosing and resolving hardware or software faults
-            - Server maintenance and monitoring (Domain Controller, SQL, Centos Mail, Activefax & ASE server)
-            - Active Directory Administration
-            - MS Word malware detection & simulator system development (deobfuscation-RPi 4 - Python)
-            - Security anti-virus systems and firewalls maintenance and monitoring (ESET remote administrator,
-            Watchguard firebox M series)
-            - Penetration test (Kali Linux)
-          ▪ Web Development, Computer Automation & System / User Support
-            - Joomla & WordPress (HTML,PHP, JavaScript, CSS)
-            - On the spot / Remote users/customers support, including procedural documentation and reports,
-            Working on MS Windows, Linux, MAC OS & Android - iOS
-          
+          - Network facilities & configuration (Routers/Switches, structured cabling), wireless network installation (4 cAPs cluster - RouterOS setup)
+          - Server maintenance and monitoring
+          - Active Directory Administration
+          - MS Word malware detection & simulator system development (deobfuscation-RPi 4 - Python)
+          - Security anti-virus systems and firewalls maintenance and monitoring (ESET remote administrator, Watchguard firebox M series)
+          - Penetration test (Kali Linux)
+          ▪ Web Development, Computer Automation
+          - Joomla & WordPress (HTML,PHP, JavaScript, CSS)
       - role: Project Coordinator - Applications and Computer Networks
         time: 2016 - 2017
         company: ERFC, Aegion
         details: |
-          - Management, coordination of pilot applications "EA SEA-WAY" in accordance with the deadlines specified
-          by the EU (Data collection - entry, coordination of partners abroad according to specifications, quality
-          control, administrator/user manual writing)
-          - Architecture design & development (flowchart - Class diagram, Application) of MS Access Database design
-          - Software / hardware testing, upgrade, maintenance and replacement. Daily back up, web pages
-          management and update (html - joomla environment)
-          
+          - Management, coordination of pilot applications "EA SEA-WAY" in accordance with
+          the deadlines specified by the EU (Data collection - entry, coordination of
+          partners abroad according to specifications, quality control, documentation)
+          - Architecture design & development (flowchart - Class diagram, Application) of
+          MS Access Database design
+          - Software / hardware testing, upgrade, maintenance and replacement. Daily back up,
+          web pages management and update (html - joomla environment)
       - role: Embedded Software / Firmware Engineer
         time: 2016 - 2017
         company: Meazon S.A, Patra
         details: |
-          - Firmware Development on Texas Instruments cc254x SoC solution ( 8051 based microcontroller with
-          embedded Bluetooth RF transceiver). Development of Smart Sub-Meter Prototype ( Schuko Smart Plug
-          )that uses the BLE (Bluetooth Low Energy Protocol 4.0/4.1) protocol to wirelessly send AC measurements
-          such as Voltage, Current, Active Power and Energy as well as remotely control loads connected on the plug
-          using an embedded relay switch (C, Assembly languages and JTAG, Debuggers UART Consoles )
-          - Hybrid Mobile Application Development (Android Platform) using Phonegap and Ionic Framework that
-          connects and communicates with the Schuko Plug via Bluetooth (Javascript, HTML, CSS languages), Visual
-          Studio
-          - Firmware Development on DA1458x SoC solution provided by Dialog Semiconductors (Cortex M0
-          microcontroller with embedded Bluetooth RF transceiver). Development of a "dual-mode" device
-          prototype, bluetooth central and peripheral role. (C language )
+          - Firmware Development on Texas Instruments cc254x SoC solution ( 8051 based
+          microcontroller with embedded Bluetooth RF transceiver). Development of Smart
+          Sub-Meter Prototype ( Schuko Smart Plug )that uses the BLE (Bluetooth Low Energy
+          4.0/4.1) protocol to wirelessly send AC measurements as well as remotely control 
+          loads connected on the plug using an embedded relay switch (C, Assembly languages 
+          and JTAG, Debuggers UART Consoles )
+          - Hybrid Mobile Application Development (Android Platform) using Phonegap and 
+          Ionic Framework that connects and communicates with the Schuko Plug via Bluetooth 
+          (Javascript, HTML, CSS languages), Visual Studio
+          - Firmware Development ( C ) on DA1458x SoC solution provided by Dialog 
+          Semiconductors (Cortex M0 microcontroller with embedded Bluetooth RF transceiver).
+          Development of a "dual-mode" device prototype, bluetooth central and peripheral role.
 
 certifications:
       title: Certifications
@@ -157,9 +152,6 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-            
-
-            
         - name: Graduate Student Experience Acquisition
           start: 2015
           end: 2016
@@ -173,95 +165,85 @@ certifications:
             - Entrepreneurship
             - Conflict resolution & management in the workplace
 
-#projects:
-#    title: Projects
-#    intro: >
-#      You can list your side projects in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#
-#      - title: DevStudio
-#        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
-#
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#      - title: Delta
-#        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-#
-#oss:
-#    title: OSS Contributions
-#    intro: >
-#      You can list your open source software contributions in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    contributions:
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#      - title: Delta
-#        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-#
-#publications:
-#    title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-#    papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
-#
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        link: "#"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-#
-#      - title: A syntax directed compiler for Algol 60
-#        link: "#"
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
+projects:
+    title: 
+    intro: >
+    assignments:
+      - title: 
+        link: 
+        tagline: 
+
+      - title: 
+        link: 
+        tagline: 
+
+      - title: 
+        link: 
+        tagline: 
+
+      - title: 
+        link: 
+        tagline: 
+
+      - title: 
+        link: 
+        tagline: 
+
+oss:
+    title: 
+    intro: >
+    contributions:
+      - title: 
+        link: 
+        tagline: 
+
+      - title: 
+        link: 
+        tagline: 
+
+      - title: 
+        link: 
+        tagline: 
+
+publications:
+    title: 
+    intro: |
+    papers:
+      - title: 
+        link: 
+        authors: 
+        conference: 
+
+      - title: 
+        link: 
+        authors: 
+        conference: 
+
+      - title: 
+        link: 
+        authors: 
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Systems Engineering
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: DB Architecture
         level: 98%
 
-      - name: Angular
+      - name: Programming
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Problem Solving
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Computer Engineerig
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: 
+        level: 
 
-#footer: >
-#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >
